@@ -8,4 +8,4 @@ posicao_inicial = len(lista) - 1 #len serve para pegar o tamanho da lista, e sub
 for posicao_atual in range(posicao_inicial, -1, -1):
     print(lista[posicao_atual])
     
-    
+    #FIM DA LISTA 18/09/2009. 07:39
